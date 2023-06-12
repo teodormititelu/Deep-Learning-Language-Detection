@@ -1,4 +1,4 @@
-# Deep-Learning-Language-Detection
+# Recurrent-Neural-Network-Language-Detection
 Deep learning language classification using RNN
 
 This project presents a machine learning model architecture based on recurrent neural networks that takes a code snippet andpredicts which programming language it is written in.
