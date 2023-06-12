@@ -1,7 +1,7 @@
 # Deep-Learning-Language-Detection
 Deep learning language classification using RNN
 
-You will train a recurrent neural network that takes a code snippet andpredicts which programming language it is written in.
+This project presents a machine learning model architecture based on recurrent neural networks that takes a code snippet andpredicts which programming language it is written in.
 
 The dataset contains 11103 snippets for train and 2995 snippets for testfrom 6 programming languages: C++, C#, Python, JavaScript, HTML and SQL.
 Each programming language is almost equally represented in the dataset.
